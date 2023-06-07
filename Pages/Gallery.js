@@ -3,7 +3,7 @@ import './../Componentes/Footer/Footer.css';
 import { Button } from './../Componentes/Button/Button';
 import { Navbar } from '../Componentes/Navbar/Navbar';
 import { Articlecontent } from '../Componentes/Articlecontent/Articlecontent';
-import { Footer } from '../Componentes/Footer/footer';
+import { Footer } from '../Componentes/Footer/Footer';
 
 let pageNum = 1;
 let info;
