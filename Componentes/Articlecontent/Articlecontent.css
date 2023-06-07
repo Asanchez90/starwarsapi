@@ -1,0 +1,41 @@
+article{
+    border: 2px solid red;
+    height:400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1.5rem; 
+    
+    /* overflow: hidden; */
+    /* text-overflow: ellipsis; */
+    /* mirar lo de los 3 puntitos */
+}
+
+article img {
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+    
+}
+
+article h2 {
+    margin: 1rem;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    /* text-overflow: ellipsis; */
+}
+article p {
+    margin: 1rem;
+    gap: 1rem;
+    overflow: scroll; 
+    align-items: center;
+    scroll-behavior: smooth scroll;
+    
+}
+h2,h3{
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}

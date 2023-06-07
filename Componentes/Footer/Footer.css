@@ -1,0 +1,16 @@
+footer{
+    /* border: 2px solid red; */
+    min-height: 6vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2rem;
+  }
+
+  
+
+  
+  
+  
