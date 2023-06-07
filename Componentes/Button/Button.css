@@ -3,5 +3,11 @@ button{
     border-radius: 10%;
     cursor: pointer;
     font-size: medium;
-    
+    color: whitesmoke;
+    background-color: transparent !important;
+    border: 1px solid yellow;
+}
+
+button:hover{
+    transform: 1rem;
 }
